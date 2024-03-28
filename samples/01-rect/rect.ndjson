@@ -1,0 +1,6 @@
+{"ClipChain":{"id":[0,[1,1]],"parent":null}}
+{"Rectangle":{"common":{"clip_rect":{"origin":[0.0,0.0],"size":[1024.0,716.0]},"clip_id":{"ClipChain":[0,[1,1]]},"spatial_id":[0,[1,1]],"flags":{"bits":1}},"bounds":{"origin":[0.0,0.0],"size":[1024.0,716.0]},"color":{"Value":{"r":0.0,"g":1.0,"b":0.0,"a":1.0}}}}
+{"HitTest":{"common":{"clip_rect":{"origin":[0.0,0.0],"size":[1024.0,8.0]},"clip_id":{"ClipChain":[0,[1,1]]},"spatial_id":[1,[1,1]],"flags":{"bits":1}},"tag":[0,2]}}
+{"HitTest":{"common":{"clip_rect":{"origin":[8.0,8.0],"size":[1008.0,0.0]},"clip_id":{"ClipChain":[0,[1,1]]},"spatial_id":[1,[1,1]],"flags":{"bits":1}},"tag":[1,2]}}
+{"HitTest":{"common":{"clip_rect":{"origin":[500.0,50.0],"size":[100.0,100.0]},"clip_id":{"ClipChain":[0,[1,1]]},"spatial_id":[1,[1,1]],"flags":{"bits":1}},"tag":[2,2]}}
+{"Rectangle":{"common":{"clip_rect":{"origin":[500.0,50.0],"size":[100.0,100.0]},"clip_id":{"ClipChain":[0,[1,1]]},"spatial_id":[1,[1,1]],"flags":{"bits":1}},"bounds":{"origin":[500.0,50.0],"size":[100.0,100.0]},"color":{"Value":{"r":1.0,"g":0.0,"b":0.0,"a":1.0}}}}
