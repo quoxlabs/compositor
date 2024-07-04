@@ -33,6 +33,10 @@ Different texts. Copied from servo repository [text_rendering.html](https://gith
 
 Copied from servo repository [about-mozilla.html](https://github.com/servo/servo/blob/66ad79501431cf0a5c83b15b7e443c87d780376e/tests/html/about-mozilla.html).
 
+### 5. Local files [flex-page.html](./05-flexbox-responsive-page/flex-page.html) and style sheet
+
+CSS flexbox example from [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) without any DL instructions. Intended as playground.
+
 ## Further reading
 
 For a general overview how compositors work see https://wiki.mozilla.org/Gecko:Overview#Painting.2FRasterizing_.28Layers_aka_Non-WebRender.29
